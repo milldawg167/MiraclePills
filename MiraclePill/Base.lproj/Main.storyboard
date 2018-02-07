@@ -173,7 +173,7 @@
                                 <rect key="frame" x="95" y="656" width="225" height="45"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <connections>
-                                    <segue destination="fQn-Hr-h7q" kind="show" id="TTq-6d-vVS"/>
+                                    <segue destination="fQn-Hr-h7q" kind="show" id="UvJ-Ok-ACD"/>
                                 </connections>
                             </button>
                         </subviews>
